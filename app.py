@@ -23,7 +23,8 @@ def __repr__(self):
 @app.route("/", methods=['POST', 'GET'])
 def index(): 
     if request.method == 'POST':
-      return "Hello"
+      task_content = request.form['content']
+      new 
     else:
       return render_template("index.html")
 
