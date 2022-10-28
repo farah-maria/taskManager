@@ -1,0 +1,2 @@
+Requirement already satisfied: Jinja2 in /workspace/.pyenv_mirror/user/current/lib/python3.8/site-packages (2.11.3)
+Requirement already satisfied: MarkupSafe>=0.23 in /home/gitpod/.pyenv/versions/3.8.13/lib/python3.8/site-packages (from Jinja2) (2.1.1)
